@@ -1,0 +1,529 @@
+id,data,agenzia,locazione,meteo,categoria,accuratezza,id_storico
+1000,2023-05-21 00:00:00,Monsters & CO,Salerno,ventoso,giornaliero,46.829524828242185,1000
+1001,2023-05-21 00:00:00,Panini Corporation,Salerno,ventoso,giornaliero,88.39154088861865,1000
+1002,2023-05-21 00:00:00,Sonyc,Salerno,ventoso,giornaliero,72.7347995892192,1000
+1003,2023-05-22 00:00:00,Monsters & CO,Salerno,precipitazioni,giornaliero,72.58547496784868,1001
+1004,2023-05-22 00:00:00,Panini Corporation,Salerno,precipitazioni,giornaliero,54.33001506044485,1001
+1005,2023-05-22 00:00:00,Sonyc,Salerno,precipitazioni,giornaliero,93.06080420849467,1001
+1006,2023-05-23 00:00:00,Monsters & CO,Salerno,ventoso,giornaliero,22.965422538790733,1002
+1007,2023-05-23 00:00:00,Panini Corporation,Salerno,ventoso,giornaliero,24.043802465483488,1002
+1008,2023-05-23 00:00:00,Sonyc,Salerno,ventoso,giornaliero,81.5327291744889,1002
+1009,2023-05-24 00:00:00,Monsters & CO,Salerno,precipitazioni,giornaliero,17.952812224253556,1003
+1010,2023-05-24 00:00:00,Panini Corporation,Salerno,precipitazioni,giornaliero,42.89106792865867,1003
+1011,2023-05-24 00:00:00,Sonyc,Salerno,precipitazioni,giornaliero,93.44864206992766,1003
+1012,2023-05-25 00:00:00,Monsters & CO,Salerno,ventoso,giornaliero,51.75925414657252,1004
+1013,2023-05-25 00:00:00,Panini Corporation,Salerno,ventoso,giornaliero,21.598360886880084,1004
+1014,2023-05-25 00:00:00,Sonyc,Salerno,ventoso,giornaliero,20.088628609953183,1004
+1015,2023-05-26 00:00:00,Monsters & CO,Salerno,soleggiato,giornaliero,83.1015508377762,1005
+1016,2023-05-26 00:00:00,Panini Corporation,Salerno,soleggiato,giornaliero,26.746304426415822,1005
+1017,2023-05-26 00:00:00,Sonyc,Salerno,soleggiato,giornaliero,60.000332223630615,1005
+1018,2023-05-27 00:00:00,Monsters & CO,Salerno,soleggiato,giornaliero,82.5636198606888,1006
+450,2023-05-27 00:00:00,Monsters & CO,Salerno,precipitazioni,settimanale,82.5636198606888,null
+1019,2023-05-27 00:00:00,Panini Corporation,Salerno,soleggiato,giornaliero,14.511298799558345,1006
+451,2023-05-27 00:00:00,Panini Corporation,Salerno,precipitazioni,settimanale,14.511298799558345,null
+1020,2023-05-27 00:00:00,Sonyc,Salerno,soleggiato,giornaliero,54.36217964761258,1006
+452,2023-05-27 00:00:00,Sonyc,Salerno,precipitazioni,settimanale,54.36217964761258,null
+1021,2023-05-28 00:00:00,Monsters & CO,Salerno,ventoso,giornaliero,15.143192565782957,1007
+1022,2023-05-28 00:00:00,Panini Corporation,Salerno,ventoso,giornaliero,97.6543617749307,1007
+1023,2023-05-28 00:00:00,Sonyc,Salerno,ventoso,giornaliero,33.29582201732544,1007
+1024,2023-05-29 00:00:00,Monsters & CO,Salerno,precipitazioni,giornaliero,95.4576521763099,1008
+1025,2023-05-29 00:00:00,Panini Corporation,Salerno,precipitazioni,giornaliero,14.804257828584849,1008
+1026,2023-05-29 00:00:00,Sonyc,Salerno,precipitazioni,giornaliero,69.14124686413516,1008
+1027,2023-05-30 00:00:00,Monsters & CO,Salerno,precipitazioni,giornaliero,38.34048434488868,1009
+1028,2023-05-30 00:00:00,Panini Corporation,Salerno,precipitazioni,giornaliero,31.671821387511713,1009
+1029,2023-05-30 00:00:00,Sonyc,Salerno,precipitazioni,giornaliero,89.42766262435303,1009
+1030,2023-05-31 00:00:00,Monsters & CO,Salerno,ventoso,giornaliero,88.95966963834393,1010
+1031,2023-05-31 00:00:00,Panini Corporation,Salerno,ventoso,giornaliero,83.97411736392193,1010
+1032,2023-05-31 00:00:00,Sonyc,Salerno,ventoso,giornaliero,57.54216012317071,1010
+1033,2023-06-01 00:00:00,Monsters & CO,Salerno,ventoso,giornaliero,74.08071164856152,1011
+1034,2023-06-01 00:00:00,Panini Corporation,Salerno,ventoso,giornaliero,22.86903764985274,1011
+1035,2023-06-01 00:00:00,Sonyc,Salerno,ventoso,giornaliero,90.40288466740441,1011
+1036,2023-06-02 00:00:00,Monsters & CO,Salerno,ventoso,giornaliero,26.753411134173717,1012
+1037,2023-06-02 00:00:00,Panini Corporation,Salerno,ventoso,giornaliero,26.033490528696518,1012
+1038,2023-06-02 00:00:00,Sonyc,Salerno,ventoso,giornaliero,66.31627859070647,1012
+1039,2023-06-03 00:00:00,Monsters & CO,Salerno,ventoso,giornaliero,52.27005148246951,1013
+453,2023-06-03 00:00:00,Monsters & CO,Salerno,temporale,settimanale,52.27005148246951,null
+1040,2023-06-03 00:00:00,Panini Corporation,Salerno,ventoso,giornaliero,94.6275641551866,1013
+454,2023-06-03 00:00:00,Panini Corporation,Salerno,temporale,settimanale,94.6275641551866,null
+1041,2023-06-03 00:00:00,Sonyc,Salerno,ventoso,giornaliero,67.50289642036364,1013
+455,2023-06-03 00:00:00,Sonyc,Salerno,temporale,settimanale,67.50289642036364,null
+1042,2023-06-04 00:00:00,Monsters & CO,Salerno,ventoso,giornaliero,32.581091105124784,1014
+1043,2023-06-04 00:00:00,Panini Corporation,Salerno,ventoso,giornaliero,28.66893371310552,1014
+1044,2023-06-04 00:00:00,Sonyc,Salerno,ventoso,giornaliero,99.88986379271874,1014
+1045,2023-06-05 00:00:00,Monsters & CO,Salerno,ventoso,giornaliero,65.34805286747327,1015
+1046,2023-06-05 00:00:00,Panini Corporation,Salerno,ventoso,giornaliero,64.98443297653358,1015
+1047,2023-06-05 00:00:00,Sonyc,Salerno,ventoso,giornaliero,44.859410878714705,1015
+1048,2023-06-06 00:00:00,Monsters & CO,Salerno,soleggiato,giornaliero,68.73991867648542,1016
+1049,2023-06-06 00:00:00,Panini Corporation,Salerno,soleggiato,giornaliero,18.651532612837727,1016
+1050,2023-06-06 00:00:00,Sonyc,Salerno,soleggiato,giornaliero,58.447297363961695,1016
+1051,2023-06-07 00:00:00,Monsters & CO,Salerno,precipitazioni,giornaliero,17.902132357101763,1017
+1052,2023-06-07 00:00:00,Panini Corporation,Salerno,precipitazioni,giornaliero,36.979266840624504,1017
+1053,2023-06-07 00:00:00,Sonyc,Salerno,precipitazioni,giornaliero,90.57668626145032,1017
+1054,2023-06-08 00:00:00,Monsters & CO,Salerno,ventoso,giornaliero,71.10066687687825,1018
+1055,2023-06-08 00:00:00,Panini Corporation,Salerno,ventoso,giornaliero,97.79050138879833,1018
+1056,2023-06-08 00:00:00,Sonyc,Salerno,ventoso,giornaliero,29.438004635011904,1018
+1057,2023-06-09 00:00:00,Monsters & CO,Salerno,ventoso,giornaliero,25.12626858898572,1019
+1058,2023-06-09 00:00:00,Panini Corporation,Salerno,ventoso,giornaliero,74.2717948242468,1019
+1059,2023-06-09 00:00:00,Sonyc,Salerno,ventoso,giornaliero,52.219463616883424,1019
+1060,2023-06-10 00:00:00,Monsters & CO,Salerno,soleggiato,giornaliero,98.3820089755833,1020
+456,2023-06-10 00:00:00,Monsters & CO,Salerno,temporale,settimanale,98.3820089755833,null
+1061,2023-06-10 00:00:00,Panini Corporation,Salerno,soleggiato,giornaliero,80.43179984257637,1020
+457,2023-06-10 00:00:00,Panini Corporation,Salerno,precipitazioni,settimanale,80.43179984257637,null
+1062,2023-06-10 00:00:00,Sonyc,Salerno,soleggiato,giornaliero,18.34834935960788,1020
+458,2023-06-10 00:00:00,Sonyc,Salerno,precipitazioni,settimanale,18.34834935960788,null
+1063,2023-06-11 00:00:00,Monsters & CO,Salerno,ventoso,giornaliero,30.27168220658953,1021
+1064,2023-06-11 00:00:00,Panini Corporation,Salerno,ventoso,giornaliero,20.583731405906647,1021
+1065,2023-06-11 00:00:00,Sonyc,Salerno,ventoso,giornaliero,29.811535467113202,1021
+1066,2023-06-12 00:00:00,Monsters & CO,Salerno,soleggiato,giornaliero,75.45565009550079,1022
+1067,2023-06-12 00:00:00,Panini Corporation,Salerno,soleggiato,giornaliero,47.25204161668123,1022
+1068,2023-06-12 00:00:00,Sonyc,Salerno,soleggiato,giornaliero,35.50977292222025,1022
+1069,2023-06-13 00:00:00,Monsters & CO,Salerno,soleggiato,giornaliero,12.718146766749049,1023
+1070,2023-06-13 00:00:00,Panini Corporation,Salerno,soleggiato,giornaliero,62.39356091714717,1023
+1071,2023-06-13 00:00:00,Sonyc,Salerno,soleggiato,giornaliero,68.81908222585068,1023
+1072,2023-06-14 00:00:00,Monsters & CO,Salerno,ventoso,giornaliero,69.37457781888857,1024
+1073,2023-06-14 00:00:00,Panini Corporation,Salerno,ventoso,giornaliero,35.46770202146631,1024
+1074,2023-06-14 00:00:00,Sonyc,Salerno,ventoso,giornaliero,75.2416930424383,1024
+1075,2023-06-15 00:00:00,Monsters & CO,Salerno,ventoso,giornaliero,45.74549299568541,1025
+1076,2023-06-15 00:00:00,Panini Corporation,Salerno,ventoso,giornaliero,49.91022633495797,1025
+1077,2023-06-15 00:00:00,Sonyc,Salerno,ventoso,giornaliero,56.36909139288954,1025
+1078,2023-06-16 00:00:00,Monsters & CO,Salerno,soleggiato,giornaliero,18.586933990164226,1026
+1079,2023-06-16 00:00:00,Panini Corporation,Salerno,soleggiato,giornaliero,47.558544707272134,1026
+1080,2023-06-16 00:00:00,Sonyc,Salerno,soleggiato,giornaliero,77.31600383133619,1026
+1081,2023-06-17 00:00:00,Monsters & CO,Salerno,soleggiato,giornaliero,13.094191494371145,1027
+459,2023-06-17 00:00:00,Monsters & CO,Salerno,precipitazioni,settimanale,13.094191494371145,null
+1082,2023-06-17 00:00:00,Panini Corporation,Salerno,soleggiato,giornaliero,63.465521547184586,1027
+460,2023-06-17 00:00:00,Panini Corporation,Salerno,precipitazioni,settimanale,63.465521547184586,null
+1083,2023-06-17 00:00:00,Sonyc,Salerno,soleggiato,giornaliero,45.321636596694816,1027
+461,2023-06-17 00:00:00,Sonyc,Salerno,precipitazioni,settimanale,45.321636596694816,null
+1084,2023-06-18 00:00:00,Monsters & CO,Salerno,ventoso,giornaliero,33.89889055405759,1028
+1085,2023-06-18 00:00:00,Panini Corporation,Salerno,ventoso,giornaliero,26.59038397519438,1028
+1086,2023-06-18 00:00:00,Sonyc,Salerno,ventoso,giornaliero,34.41529463507969,1028
+1087,2023-06-19 00:00:00,Monsters & CO,Salerno,ventoso,giornaliero,55.18627678908686,1029
+514,2023-06-19 00:00:00,Monsters & CO,Salerno,precipitazioni,mensile,55.18627678908686,null
+1088,2023-06-19 00:00:00,Panini Corporation,Salerno,ventoso,giornaliero,86.18453181014975,1029
+515,2023-06-19 00:00:00,Panini Corporation,Salerno,precipitazioni,mensile,86.18453181014975,null
+1089,2023-06-19 00:00:00,Sonyc,Salerno,ventoso,giornaliero,63.52475120689037,1029
+516,2023-06-19 00:00:00,Sonyc,Salerno,precipitazioni,mensile,63.52475120689037,null
+1090,2023-05-21 00:00:00,Monsters & CO,Riccione,soleggiato,giornaliero,24.64262229330199,1030
+1091,2023-05-21 00:00:00,Panini Corporation,Riccione,soleggiato,giornaliero,87.15171727337562,1030
+1092,2023-05-21 00:00:00,Sonyc,Riccione,soleggiato,giornaliero,73.03636192241892,1030
+1093,2023-05-22 00:00:00,Monsters & CO,Riccione,ventoso,giornaliero,27.5875040739767,1031
+1094,2023-05-22 00:00:00,Panini Corporation,Riccione,ventoso,giornaliero,22.44229283315488,1031
+1095,2023-05-22 00:00:00,Sonyc,Riccione,ventoso,giornaliero,33.21958321670352,1031
+1096,2023-05-23 00:00:00,Monsters & CO,Riccione,precipitazioni,giornaliero,32.378401091780574,1032
+1097,2023-05-23 00:00:00,Panini Corporation,Riccione,precipitazioni,giornaliero,80.0548419735591,1032
+1098,2023-05-23 00:00:00,Sonyc,Riccione,precipitazioni,giornaliero,28.839782962331366,1032
+1099,2023-05-24 00:00:00,Monsters & CO,Riccione,ventoso,giornaliero,23.816042644791033,1033
+1100,2023-05-24 00:00:00,Panini Corporation,Riccione,ventoso,giornaliero,70.33414264365304,1033
+1101,2023-05-24 00:00:00,Sonyc,Riccione,ventoso,giornaliero,68.50438527602172,1033
+1102,2023-05-25 00:00:00,Monsters & CO,Riccione,precipitazioni,giornaliero,10.780881555007404,1034
+462,2023-05-25 00:00:00,Monsters & CO,Riccione,temporale,settimanale,10.780881555007404,null
+1103,2023-05-25 00:00:00,Panini Corporation,Riccione,precipitazioni,giornaliero,44.955466643452745,1034
+463,2023-05-25 00:00:00,Panini Corporation,Riccione,temporale,settimanale,44.955466643452745,null
+1104,2023-05-25 00:00:00,Sonyc,Riccione,precipitazioni,giornaliero,96.24830581023697,1034
+464,2023-05-25 00:00:00,Sonyc,Riccione,temporale,settimanale,96.24830581023697,null
+1105,2023-05-26 00:00:00,Monsters & CO,Riccione,ventoso,giornaliero,34.4980598247502,1035
+1106,2023-05-26 00:00:00,Panini Corporation,Riccione,ventoso,giornaliero,48.57302433783151,1035
+1107,2023-05-26 00:00:00,Sonyc,Riccione,ventoso,giornaliero,90.34442369961508,1035
+1108,2023-05-27 00:00:00,Monsters & CO,Riccione,soleggiato,giornaliero,48.097550387121906,1036
+1109,2023-05-27 00:00:00,Panini Corporation,Riccione,soleggiato,giornaliero,71.4036867211961,1036
+1110,2023-05-27 00:00:00,Sonyc,Riccione,soleggiato,giornaliero,42.24256859544738,1036
+1111,2023-05-28 00:00:00,Monsters & CO,Riccione,soleggiato,giornaliero,73.77810311295718,1037
+1112,2023-05-28 00:00:00,Panini Corporation,Riccione,soleggiato,giornaliero,79.74513446223746,1037
+1113,2023-05-28 00:00:00,Sonyc,Riccione,soleggiato,giornaliero,56.28454430025409,1037
+1114,2023-05-29 00:00:00,Monsters & CO,Riccione,ventoso,giornaliero,89.72258800650833,1038
+1115,2023-05-29 00:00:00,Panini Corporation,Riccione,ventoso,giornaliero,42.827847673113844,1038
+1116,2023-05-29 00:00:00,Sonyc,Riccione,ventoso,giornaliero,70.11591703083312,1038
+1117,2023-05-30 00:00:00,Monsters & CO,Riccione,ventoso,giornaliero,22.714541717681158,1039
+1118,2023-05-30 00:00:00,Panini Corporation,Riccione,ventoso,giornaliero,47.132488966392394,1039
+1119,2023-05-30 00:00:00,Sonyc,Riccione,ventoso,giornaliero,97.47768187313048,1039
+1120,2023-05-31 00:00:00,Monsters & CO,Riccione,ventoso,giornaliero,37.66993304068117,1040
+1121,2023-05-31 00:00:00,Panini Corporation,Riccione,ventoso,giornaliero,32.95118691299224,1040
+1122,2023-05-31 00:00:00,Sonyc,Riccione,ventoso,giornaliero,63.507284887817576,1040
+1123,2023-06-01 00:00:00,Monsters & CO,Riccione,ventoso,giornaliero,58.07628080335356,1041
+465,2023-06-01 00:00:00,Monsters & CO,Riccione,temporale,settimanale,58.07628080335356,null
+1124,2023-06-01 00:00:00,Panini Corporation,Riccione,ventoso,giornaliero,17.65165728034938,1041
+466,2023-06-01 00:00:00,Panini Corporation,Riccione,temporale,settimanale,17.65165728034938,null
+1125,2023-06-01 00:00:00,Sonyc,Riccione,ventoso,giornaliero,32.2008748114752,1041
+467,2023-06-01 00:00:00,Sonyc,Riccione,temporale,settimanale,32.2008748114752,null
+1126,2023-06-02 00:00:00,Monsters & CO,Riccione,soleggiato,giornaliero,16.320646974291506,1042
+1127,2023-06-02 00:00:00,Panini Corporation,Riccione,soleggiato,giornaliero,13.661839583390734,1042
+1128,2023-06-02 00:00:00,Sonyc,Riccione,soleggiato,giornaliero,55.58195006584122,1042
+1129,2023-06-03 00:00:00,Monsters & CO,Riccione,ventoso,giornaliero,35.84303919666594,1043
+1130,2023-06-03 00:00:00,Panini Corporation,Riccione,ventoso,giornaliero,38.162374483432146,1043
+1131,2023-06-03 00:00:00,Sonyc,Riccione,ventoso,giornaliero,97.72245494989606,1043
+1132,2023-06-04 00:00:00,Monsters & CO,Riccione,soleggiato,giornaliero,79.82862567214053,1044
+1133,2023-06-04 00:00:00,Panini Corporation,Riccione,soleggiato,giornaliero,80.61774584142992,1044
+1134,2023-06-04 00:00:00,Sonyc,Riccione,soleggiato,giornaliero,94.54038368078048,1044
+1135,2023-06-05 00:00:00,Monsters & CO,Riccione,precipitazioni,giornaliero,20.5735893033438,1045
+1136,2023-06-05 00:00:00,Panini Corporation,Riccione,precipitazioni,giornaliero,91.50482924133382,1045
+1137,2023-06-05 00:00:00,Sonyc,Riccione,precipitazioni,giornaliero,33.83907229480303,1045
+1138,2023-06-06 00:00:00,Monsters & CO,Riccione,soleggiato,giornaliero,21.104043158650846,1046
+1139,2023-06-06 00:00:00,Panini Corporation,Riccione,soleggiato,giornaliero,15.304459142948925,1046
+1140,2023-06-06 00:00:00,Sonyc,Riccione,soleggiato,giornaliero,69.82409037693974,1046
+1141,2023-06-07 00:00:00,Monsters & CO,Riccione,soleggiato,giornaliero,12.862177758854326,1047
+1142,2023-06-07 00:00:00,Panini Corporation,Riccione,soleggiato,giornaliero,38.764894988094895,1047
+1143,2023-06-07 00:00:00,Sonyc,Riccione,soleggiato,giornaliero,50.59190037765617,1047
+1144,2023-06-08 00:00:00,Monsters & CO,Riccione,ventoso,giornaliero,23.10846044857396,1048
+468,2023-06-08 00:00:00,Monsters & CO,Riccione,soleggiato,settimanale,23.10846044857396,null
+1145,2023-06-08 00:00:00,Panini Corporation,Riccione,ventoso,giornaliero,59.38367898000194,1048
+469,2023-06-08 00:00:00,Panini Corporation,Riccione,soleggiato,settimanale,59.38367898000194,null
+1146,2023-06-08 00:00:00,Sonyc,Riccione,ventoso,giornaliero,53.55219903035807,1048
+470,2023-06-08 00:00:00,Sonyc,Riccione,precipitazioni,settimanale,53.55219903035807,null
+1147,2023-06-09 00:00:00,Monsters & CO,Riccione,soleggiato,giornaliero,95.22475724186286,1049
+1148,2023-06-09 00:00:00,Panini Corporation,Riccione,soleggiato,giornaliero,67.14864202562512,1049
+1149,2023-06-09 00:00:00,Sonyc,Riccione,soleggiato,giornaliero,57.90266793400124,1049
+1150,2023-06-10 00:00:00,Monsters & CO,Riccione,precipitazioni,giornaliero,83.72606534002287,1050
+1151,2023-06-10 00:00:00,Panini Corporation,Riccione,precipitazioni,giornaliero,50.11531215669954,1050
+1152,2023-06-10 00:00:00,Sonyc,Riccione,precipitazioni,giornaliero,45.96475357386848,1050
+1153,2023-06-11 00:00:00,Monsters & CO,Riccione,ventoso,giornaliero,64.0440182816806,1051
+1154,2023-06-11 00:00:00,Panini Corporation,Riccione,ventoso,giornaliero,32.56629821898094,1051
+1155,2023-06-11 00:00:00,Sonyc,Riccione,ventoso,giornaliero,57.477594597651745,1051
+1156,2023-06-12 00:00:00,Monsters & CO,Riccione,ventoso,giornaliero,18.15488983197828,1052
+1157,2023-06-12 00:00:00,Panini Corporation,Riccione,ventoso,giornaliero,41.4785085321298,1052
+1158,2023-06-12 00:00:00,Sonyc,Riccione,ventoso,giornaliero,44.9109029348543,1052
+1159,2023-06-13 00:00:00,Monsters & CO,Riccione,precipitazioni,giornaliero,87.09553114949512,1053
+1160,2023-06-13 00:00:00,Panini Corporation,Riccione,precipitazioni,giornaliero,73.04718818929342,1053
+1161,2023-06-13 00:00:00,Sonyc,Riccione,precipitazioni,giornaliero,34.26480483152606,1053
+1162,2023-06-14 00:00:00,Monsters & CO,Riccione,ventoso,giornaliero,96.55132239877277,1054
+1163,2023-06-14 00:00:00,Panini Corporation,Riccione,ventoso,giornaliero,93.41431535904034,1054
+1164,2023-06-14 00:00:00,Sonyc,Riccione,ventoso,giornaliero,68.0108621490676,1054
+1165,2023-06-15 00:00:00,Monsters & CO,Riccione,precipitazioni,giornaliero,69.64335835974828,1055
+471,2023-06-15 00:00:00,Monsters & CO,Riccione,precipitazioni,settimanale,69.64335835974828,null
+1166,2023-06-15 00:00:00,Panini Corporation,Riccione,precipitazioni,giornaliero,19.494472743310567,1055
+472,2023-06-15 00:00:00,Panini Corporation,Riccione,precipitazioni,settimanale,19.494472743310567,null
+1167,2023-06-15 00:00:00,Sonyc,Riccione,precipitazioni,giornaliero,20.068720407822873,1055
+473,2023-06-15 00:00:00,Sonyc,Riccione,precipitazioni,settimanale,20.068720407822873,null
+1168,2023-06-16 00:00:00,Monsters & CO,Riccione,ventoso,giornaliero,81.10368410035717,1056
+1169,2023-06-16 00:00:00,Panini Corporation,Riccione,ventoso,giornaliero,48.256807398799744,1056
+1170,2023-06-16 00:00:00,Sonyc,Riccione,ventoso,giornaliero,66.81758090431066,1056
+1171,2023-06-17 00:00:00,Monsters & CO,Riccione,soleggiato,giornaliero,78.77642908157893,1057
+1172,2023-06-17 00:00:00,Panini Corporation,Riccione,soleggiato,giornaliero,53.19702493646969,1057
+1173,2023-06-17 00:00:00,Sonyc,Riccione,soleggiato,giornaliero,74.20326332647707,1057
+1174,2023-06-18 00:00:00,Monsters & CO,Riccione,precipitazioni,giornaliero,25.33793569515917,1058
+1175,2023-06-18 00:00:00,Panini Corporation,Riccione,precipitazioni,giornaliero,19.558727200752614,1058
+1176,2023-06-18 00:00:00,Sonyc,Riccione,precipitazioni,giornaliero,65.96662337274019,1058
+1177,2023-06-19 00:00:00,Monsters & CO,Riccione,ventoso,giornaliero,39.66701517135671,1059
+517,2023-06-19 00:00:00,Monsters & CO,Riccione,precipitazioni,mensile,39.66701517135671,null
+1178,2023-06-19 00:00:00,Panini Corporation,Riccione,ventoso,giornaliero,16.11265622017498,1059
+518,2023-06-19 00:00:00,Panini Corporation,Riccione,precipitazioni,mensile,16.11265622017498,null
+1179,2023-06-19 00:00:00,Sonyc,Riccione,ventoso,giornaliero,48.783232635206794,1059
+519,2023-06-19 00:00:00,Sonyc,Riccione,precipitazioni,mensile,48.783232635206794,null
+1180,2023-05-21 00:00:00,Monsters & CO,Padova,ventoso,giornaliero,97.30704604264174,1060
+1181,2023-05-21 00:00:00,Panini Corporation,Padova,ventoso,giornaliero,72.45871401603529,1060
+1182,2023-05-21 00:00:00,Sonyc,Padova,ventoso,giornaliero,88.1596725230232,1060
+1183,2023-05-22 00:00:00,Monsters & CO,Padova,soleggiato,giornaliero,53.446066474098295,1061
+1184,2023-05-22 00:00:00,Panini Corporation,Padova,soleggiato,giornaliero,75.41333514485024,1061
+1185,2023-05-22 00:00:00,Sonyc,Padova,soleggiato,giornaliero,41.32946033270491,1061
+1186,2023-05-23 00:00:00,Monsters & CO,Padova,precipitazioni,giornaliero,51.18865246083187,1062
+474,2023-05-23 00:00:00,Monsters & CO,Padova,precipitazioni,settimanale,51.18865246083187,null
+1187,2023-05-23 00:00:00,Panini Corporation,Padova,precipitazioni,giornaliero,27.00809896825633,1062
+475,2023-05-23 00:00:00,Panini Corporation,Padova,precipitazioni,settimanale,27.00809896825633,null
+1188,2023-05-23 00:00:00,Sonyc,Padova,precipitazioni,giornaliero,24.640705937408562,1062
+476,2023-05-23 00:00:00,Sonyc,Padova,precipitazioni,settimanale,24.640705937408562,null
+1189,2023-05-24 00:00:00,Monsters & CO,Padova,soleggiato,giornaliero,88.58152508282903,1063
+1190,2023-05-24 00:00:00,Panini Corporation,Padova,soleggiato,giornaliero,74.17809833673672,1063
+1191,2023-05-24 00:00:00,Sonyc,Padova,soleggiato,giornaliero,78.46963035621644,1063
+1192,2023-05-25 00:00:00,Monsters & CO,Padova,ventoso,giornaliero,90.04715513767295,1064
+1193,2023-05-25 00:00:00,Panini Corporation,Padova,ventoso,giornaliero,51.81398531400542,1064
+1194,2023-05-25 00:00:00,Sonyc,Padova,ventoso,giornaliero,12.79620213773327,1064
+1195,2023-05-26 00:00:00,Monsters & CO,Padova,ventoso,giornaliero,58.93969460919449,1065
+1196,2023-05-26 00:00:00,Panini Corporation,Padova,ventoso,giornaliero,30.858448377423695,1065
+1197,2023-05-26 00:00:00,Sonyc,Padova,ventoso,giornaliero,25.053731109661726,1065
+1198,2023-05-27 00:00:00,Monsters & CO,Padova,ventoso,giornaliero,92.68367314398411,1066
+1199,2023-05-27 00:00:00,Panini Corporation,Padova,ventoso,giornaliero,40.3259981499597,1066
+1200,2023-05-27 00:00:00,Sonyc,Padova,ventoso,giornaliero,84.0982692032742,1066
+1201,2023-05-28 00:00:00,Monsters & CO,Padova,soleggiato,giornaliero,22.817628485211326,1067
+1202,2023-05-28 00:00:00,Panini Corporation,Padova,soleggiato,giornaliero,32.44927516670518,1067
+1203,2023-05-28 00:00:00,Sonyc,Padova,soleggiato,giornaliero,11.404191319363804,1067
+1204,2023-05-29 00:00:00,Monsters & CO,Padova,ventoso,giornaliero,52.66940035971209,1068
+1205,2023-05-29 00:00:00,Panini Corporation,Padova,ventoso,giornaliero,21.28841874562937,1068
+1206,2023-05-29 00:00:00,Sonyc,Padova,ventoso,giornaliero,50.12790842923829,1068
+1207,2023-05-30 00:00:00,Monsters & CO,Padova,ventoso,giornaliero,65.89270700405314,1069
+477,2023-05-30 00:00:00,Monsters & CO,Padova,temporale,settimanale,65.89270700405314,null
+1208,2023-05-30 00:00:00,Panini Corporation,Padova,ventoso,giornaliero,85.76078792920141,1069
+478,2023-05-30 00:00:00,Panini Corporation,Padova,temporale,settimanale,85.76078792920141,null
+1209,2023-05-30 00:00:00,Sonyc,Padova,ventoso,giornaliero,28.9125143870708,1069
+479,2023-05-30 00:00:00,Sonyc,Padova,temporale,settimanale,28.9125143870708,null
+1210,2023-05-31 00:00:00,Monsters & CO,Padova,ventoso,giornaliero,76.21095973172596,1070
+1211,2023-05-31 00:00:00,Panini Corporation,Padova,ventoso,giornaliero,57.71028781114916,1070
+1212,2023-05-31 00:00:00,Sonyc,Padova,ventoso,giornaliero,48.12565881364394,1070
+1213,2023-06-01 00:00:00,Monsters & CO,Padova,ventoso,giornaliero,33.7530619852954,1071
+1214,2023-06-01 00:00:00,Panini Corporation,Padova,ventoso,giornaliero,47.091272137631876,1071
+1215,2023-06-01 00:00:00,Sonyc,Padova,ventoso,giornaliero,82.24244826816313,1071
+1216,2023-06-02 00:00:00,Monsters & CO,Padova,precipitazioni,giornaliero,64.04086449748235,1072
+1217,2023-06-02 00:00:00,Panini Corporation,Padova,precipitazioni,giornaliero,35.070970725778366,1072
+1218,2023-06-02 00:00:00,Sonyc,Padova,precipitazioni,giornaliero,85.20507622077695,1072
+1219,2023-06-03 00:00:00,Monsters & CO,Padova,ventoso,giornaliero,59.322532801254994,1073
+1220,2023-06-03 00:00:00,Panini Corporation,Padova,ventoso,giornaliero,81.74203932339155,1073
+1221,2023-06-03 00:00:00,Sonyc,Padova,ventoso,giornaliero,92.01651825238648,1073
+1222,2023-06-04 00:00:00,Monsters & CO,Padova,ventoso,giornaliero,18.96582740217681,1074
+1223,2023-06-04 00:00:00,Panini Corporation,Padova,ventoso,giornaliero,15.901420862471703,1074
+1224,2023-06-04 00:00:00,Sonyc,Padova,ventoso,giornaliero,31.181262696722282,1074
+1225,2023-06-05 00:00:00,Monsters & CO,Padova,precipitazioni,giornaliero,64.22181434588644,1075
+1226,2023-06-05 00:00:00,Panini Corporation,Padova,precipitazioni,giornaliero,43.40029163053598,1075
+1227,2023-06-05 00:00:00,Sonyc,Padova,precipitazioni,giornaliero,62.16872784822797,1075
+1228,2023-06-06 00:00:00,Monsters & CO,Padova,soleggiato,giornaliero,90.79878181942267,1076
+480,2023-06-06 00:00:00,Monsters & CO,Padova,temporale,settimanale,90.79878181942267,null
+1229,2023-06-06 00:00:00,Panini Corporation,Padova,soleggiato,giornaliero,36.96414058243993,1076
+481,2023-06-06 00:00:00,Panini Corporation,Padova,temporale,settimanale,36.96414058243993,null
+1230,2023-06-06 00:00:00,Sonyc,Padova,soleggiato,giornaliero,75.42195215975606,1076
+482,2023-06-06 00:00:00,Sonyc,Padova,temporale,settimanale,75.42195215975606,null
+1231,2023-06-07 00:00:00,Monsters & CO,Padova,soleggiato,giornaliero,31.368222399988746,1077
+1232,2023-06-07 00:00:00,Panini Corporation,Padova,soleggiato,giornaliero,26.799705418918442,1077
+1233,2023-06-07 00:00:00,Sonyc,Padova,soleggiato,giornaliero,23.78649997750088,1077
+1234,2023-06-08 00:00:00,Monsters & CO,Padova,ventoso,giornaliero,34.46123849071797,1078
+1235,2023-06-08 00:00:00,Panini Corporation,Padova,ventoso,giornaliero,94.05937957377073,1078
+1236,2023-06-08 00:00:00,Sonyc,Padova,ventoso,giornaliero,76.54879727086747,1078
+1237,2023-06-09 00:00:00,Monsters & CO,Padova,ventoso,giornaliero,94.6395724146333,1079
+1238,2023-06-09 00:00:00,Panini Corporation,Padova,ventoso,giornaliero,55.55730900994542,1079
+1239,2023-06-09 00:00:00,Sonyc,Padova,ventoso,giornaliero,37.36844431861245,1079
+1240,2023-06-10 00:00:00,Monsters & CO,Padova,ventoso,giornaliero,11.140628911324633,1080
+1241,2023-06-10 00:00:00,Panini Corporation,Padova,ventoso,giornaliero,12.946486021037224,1080
+1242,2023-06-10 00:00:00,Sonyc,Padova,ventoso,giornaliero,27.715770329977097,1080
+1243,2023-06-11 00:00:00,Monsters & CO,Padova,ventoso,giornaliero,39.382233875205,1081
+1244,2023-06-11 00:00:00,Panini Corporation,Padova,ventoso,giornaliero,17.515576009572953,1081
+1245,2023-06-11 00:00:00,Sonyc,Padova,ventoso,giornaliero,35.32173122904669,1081
+1246,2023-06-12 00:00:00,Monsters & CO,Padova,ventoso,giornaliero,66.80782741982586,1082
+1247,2023-06-12 00:00:00,Panini Corporation,Padova,ventoso,giornaliero,88.00936375484076,1082
+1248,2023-06-12 00:00:00,Sonyc,Padova,ventoso,giornaliero,80.7233205918074,1082
+1249,2023-06-13 00:00:00,Monsters & CO,Padova,ventoso,giornaliero,58.34784031415113,1083
+483,2023-06-13 00:00:00,Monsters & CO,Padova,temporale,settimanale,58.34784031415113,null
+1250,2023-06-13 00:00:00,Panini Corporation,Padova,ventoso,giornaliero,27.500366662821165,1083
+484,2023-06-13 00:00:00,Panini Corporation,Padova,temporale,settimanale,27.500366662821165,null
+1251,2023-06-13 00:00:00,Sonyc,Padova,ventoso,giornaliero,83.07710006093464,1083
+485,2023-06-13 00:00:00,Sonyc,Padova,temporale,settimanale,83.07710006093464,null
+1252,2023-06-14 00:00:00,Monsters & CO,Padova,soleggiato,giornaliero,64.58563302617299,1084
+1253,2023-06-14 00:00:00,Panini Corporation,Padova,soleggiato,giornaliero,95.11103342067952,1084
+1254,2023-06-14 00:00:00,Sonyc,Padova,soleggiato,giornaliero,68.53651125041934,1084
+1255,2023-06-15 00:00:00,Monsters & CO,Padova,ventoso,giornaliero,88.76203189516676,1085
+1256,2023-06-15 00:00:00,Panini Corporation,Padova,ventoso,giornaliero,48.0302494843294,1085
+1257,2023-06-15 00:00:00,Sonyc,Padova,ventoso,giornaliero,80.23754231876491,1085
+1258,2023-06-16 00:00:00,Monsters & CO,Padova,ventoso,giornaliero,29.63924372400075,1086
+1259,2023-06-16 00:00:00,Panini Corporation,Padova,ventoso,giornaliero,85.11315468255575,1086
+1260,2023-06-16 00:00:00,Sonyc,Padova,ventoso,giornaliero,50.66035188434746,1086
+1261,2023-06-17 00:00:00,Monsters & CO,Padova,ventoso,giornaliero,62.76736441360334,1087
+1262,2023-06-17 00:00:00,Panini Corporation,Padova,ventoso,giornaliero,16.016796467009563,1087
+1263,2023-06-17 00:00:00,Sonyc,Padova,ventoso,giornaliero,68.14112621448348,1087
+1264,2023-06-18 00:00:00,Monsters & CO,Padova,soleggiato,giornaliero,78.1836541404343,1088
+1265,2023-06-18 00:00:00,Panini Corporation,Padova,soleggiato,giornaliero,25.389340612535733,1088
+1266,2023-06-18 00:00:00,Sonyc,Padova,soleggiato,giornaliero,25.361384232663795,1088
+1267,2023-06-19 00:00:00,Monsters & CO,Padova,precipitazioni,giornaliero,95.00642189005933,1089
+520,2023-06-19 00:00:00,Monsters & CO,Padova,precipitazioni,mensile,95.00642189005933,null
+1268,2023-06-19 00:00:00,Panini Corporation,Padova,precipitazioni,giornaliero,19.27235107232695,1089
+521,2023-06-19 00:00:00,Panini Corporation,Padova,precipitazioni,mensile,19.27235107232695,null
+1269,2023-06-19 00:00:00,Sonyc,Padova,precipitazioni,giornaliero,76.56847285801055,1089
+522,2023-06-19 00:00:00,Sonyc,Padova,precipitazioni,mensile,76.56847285801055,null
+1270,2023-05-21 00:00:00,Monsters & CO,Bassano,ventoso,giornaliero,66.1799619526008,1090
+486,2023-05-21 00:00:00,Monsters & CO,Bassano,precipitazioni,settimanale,66.1799619526008,null
+1271,2023-05-21 00:00:00,Panini Corporation,Bassano,ventoso,giornaliero,34.33405598275078,1090
+487,2023-05-21 00:00:00,Panini Corporation,Bassano,precipitazioni,settimanale,34.33405598275078,null
+1272,2023-05-21 00:00:00,Sonyc,Bassano,ventoso,giornaliero,71.97550049222482,1090
+488,2023-05-21 00:00:00,Sonyc,Bassano,precipitazioni,settimanale,71.97550049222482,null
+1273,2023-05-22 00:00:00,Monsters & CO,Bassano,ventoso,giornaliero,90.32316742777272,1091
+1274,2023-05-22 00:00:00,Panini Corporation,Bassano,ventoso,giornaliero,44.27302707603678,1091
+1275,2023-05-22 00:00:00,Sonyc,Bassano,ventoso,giornaliero,70.2161952884008,1091
+1276,2023-05-23 00:00:00,Monsters & CO,Bassano,soleggiato,giornaliero,36.996114184483844,1092
+1277,2023-05-23 00:00:00,Panini Corporation,Bassano,soleggiato,giornaliero,78.40555009667045,1092
+1278,2023-05-23 00:00:00,Sonyc,Bassano,soleggiato,giornaliero,62.83708061587351,1092
+1279,2023-05-24 00:00:00,Monsters & CO,Bassano,ventoso,giornaliero,76.80365233902376,1093
+1280,2023-05-24 00:00:00,Panini Corporation,Bassano,ventoso,giornaliero,66.05472006158357,1093
+1281,2023-05-24 00:00:00,Sonyc,Bassano,ventoso,giornaliero,91.14868874931095,1093
+1282,2023-05-25 00:00:00,Monsters & CO,Bassano,soleggiato,giornaliero,72.42706766780341,1094
+1283,2023-05-25 00:00:00,Panini Corporation,Bassano,soleggiato,giornaliero,80.06690796299706,1094
+1284,2023-05-25 00:00:00,Sonyc,Bassano,soleggiato,giornaliero,24.09435377255877,1094
+1285,2023-05-26 00:00:00,Monsters & CO,Bassano,soleggiato,giornaliero,38.932897848840156,1095
+1286,2023-05-26 00:00:00,Panini Corporation,Bassano,soleggiato,giornaliero,56.19787283476379,1095
+1287,2023-05-26 00:00:00,Sonyc,Bassano,soleggiato,giornaliero,31.270036795699962,1095
+1288,2023-05-27 00:00:00,Monsters & CO,Bassano,ventoso,giornaliero,95.86718143745718,1096
+1289,2023-05-27 00:00:00,Panini Corporation,Bassano,ventoso,giornaliero,18.716980935855236,1096
+1290,2023-05-27 00:00:00,Sonyc,Bassano,ventoso,giornaliero,65.91295905932851,1096
+1291,2023-05-28 00:00:00,Monsters & CO,Bassano,ventoso,giornaliero,81.86255140884951,1097
+489,2023-05-28 00:00:00,Monsters & CO,Bassano,precipitazioni,settimanale,81.86255140884951,null
+1292,2023-05-28 00:00:00,Panini Corporation,Bassano,ventoso,giornaliero,61.39250531947077,1097
+490,2023-05-28 00:00:00,Panini Corporation,Bassano,precipitazioni,settimanale,61.39250531947077,null
+1293,2023-05-28 00:00:00,Sonyc,Bassano,ventoso,giornaliero,25.153321847317386,1097
+491,2023-05-28 00:00:00,Sonyc,Bassano,precipitazioni,settimanale,25.153321847317386,null
+1294,2023-05-29 00:00:00,Monsters & CO,Bassano,ventoso,giornaliero,94.96585300996877,1098
+1295,2023-05-29 00:00:00,Panini Corporation,Bassano,ventoso,giornaliero,16.590781805424065,1098
+1296,2023-05-29 00:00:00,Sonyc,Bassano,ventoso,giornaliero,21.241205071364142,1098
+1297,2023-05-30 00:00:00,Monsters & CO,Bassano,soleggiato,giornaliero,24.254452507753115,1099
+1298,2023-05-30 00:00:00,Panini Corporation,Bassano,soleggiato,giornaliero,51.385753660840805,1099
+1299,2023-05-30 00:00:00,Sonyc,Bassano,soleggiato,giornaliero,91.71316786617885,1099
+1300,2023-05-31 00:00:00,Monsters & CO,Bassano,ventoso,giornaliero,13.018488190895429,1100
+1301,2023-05-31 00:00:00,Panini Corporation,Bassano,ventoso,giornaliero,49.96632973858074,1100
+1302,2023-05-31 00:00:00,Sonyc,Bassano,ventoso,giornaliero,44.606490380954625,1100
+1303,2023-06-01 00:00:00,Monsters & CO,Bassano,ventoso,giornaliero,11.23316505212717,1101
+1304,2023-06-01 00:00:00,Panini Corporation,Bassano,ventoso,giornaliero,82.44386964337849,1101
+1305,2023-06-01 00:00:00,Sonyc,Bassano,ventoso,giornaliero,92.55576999977539,1101
+1306,2023-06-02 00:00:00,Monsters & CO,Bassano,ventoso,giornaliero,21.32661612636192,1102
+1307,2023-06-02 00:00:00,Panini Corporation,Bassano,ventoso,giornaliero,98.76678321788594,1102
+1308,2023-06-02 00:00:00,Sonyc,Bassano,ventoso,giornaliero,38.9719604306233,1102
+1309,2023-06-03 00:00:00,Monsters & CO,Bassano,precipitazioni,giornaliero,41.41874903499363,1103
+1310,2023-06-03 00:00:00,Panini Corporation,Bassano,precipitazioni,giornaliero,69.32435214710829,1103
+1311,2023-06-03 00:00:00,Sonyc,Bassano,precipitazioni,giornaliero,45.55821961204078,1103
+1312,2023-06-04 00:00:00,Monsters & CO,Bassano,ventoso,giornaliero,39.82532333995027,1104
+492,2023-06-04 00:00:00,Monsters & CO,Bassano,temporale,settimanale,39.82532333995027,null
+1313,2023-06-04 00:00:00,Panini Corporation,Bassano,ventoso,giornaliero,23.817431280046648,1104
+493,2023-06-04 00:00:00,Panini Corporation,Bassano,temporale,settimanale,23.817431280046648,null
+1314,2023-06-04 00:00:00,Sonyc,Bassano,ventoso,giornaliero,65.56654072626306,1104
+494,2023-06-04 00:00:00,Sonyc,Bassano,temporale,settimanale,65.56654072626306,null
+1315,2023-06-05 00:00:00,Monsters & CO,Bassano,ventoso,giornaliero,30.592085207997403,1105
+1316,2023-06-05 00:00:00,Panini Corporation,Bassano,ventoso,giornaliero,52.28512210707521,1105
+1317,2023-06-05 00:00:00,Sonyc,Bassano,ventoso,giornaliero,32.8387474340886,1105
+1318,2023-06-06 00:00:00,Monsters & CO,Bassano,precipitazioni,giornaliero,57.3125979448885,1106
+1319,2023-06-06 00:00:00,Panini Corporation,Bassano,precipitazioni,giornaliero,39.25859102769931,1106
+1320,2023-06-06 00:00:00,Sonyc,Bassano,precipitazioni,giornaliero,16.101511392285314,1106
+1321,2023-06-07 00:00:00,Monsters & CO,Bassano,ventoso,giornaliero,94.09810305670425,1107
+1322,2023-06-07 00:00:00,Panini Corporation,Bassano,ventoso,giornaliero,31.686115746603992,1107
+1323,2023-06-07 00:00:00,Sonyc,Bassano,ventoso,giornaliero,68.5306441283092,1107
+1324,2023-06-08 00:00:00,Monsters & CO,Bassano,precipitazioni,giornaliero,49.631813986725476,1108
+1325,2023-06-08 00:00:00,Panini Corporation,Bassano,precipitazioni,giornaliero,99.51416078092805,1108
+1326,2023-06-08 00:00:00,Sonyc,Bassano,precipitazioni,giornaliero,52.72822103998159,1108
+1327,2023-06-09 00:00:00,Monsters & CO,Bassano,precipitazioni,giornaliero,27.12261551825679,1109
+1328,2023-06-09 00:00:00,Panini Corporation,Bassano,precipitazioni,giornaliero,72.79697654934732,1109
+1329,2023-06-09 00:00:00,Sonyc,Bassano,precipitazioni,giornaliero,95.03188924042335,1109
+1330,2023-06-10 00:00:00,Monsters & CO,Bassano,soleggiato,giornaliero,41.55140478255255,1110
+1331,2023-06-10 00:00:00,Panini Corporation,Bassano,soleggiato,giornaliero,71.79397252344621,1110
+1332,2023-06-10 00:00:00,Sonyc,Bassano,soleggiato,giornaliero,32.85770576219298,1110
+1333,2023-06-11 00:00:00,Monsters & CO,Bassano,ventoso,giornaliero,19.538884054890055,1111
+495,2023-06-11 00:00:00,Monsters & CO,Bassano,precipitazioni,settimanale,19.538884054890055,null
+1334,2023-06-11 00:00:00,Panini Corporation,Bassano,ventoso,giornaliero,45.35283652108168,1111
+496,2023-06-11 00:00:00,Panini Corporation,Bassano,precipitazioni,settimanale,45.35283652108168,null
+1335,2023-06-11 00:00:00,Sonyc,Bassano,ventoso,giornaliero,31.69410897829805,1111
+497,2023-06-11 00:00:00,Sonyc,Bassano,precipitazioni,settimanale,31.69410897829805,null
+1336,2023-06-12 00:00:00,Monsters & CO,Bassano,precipitazioni,giornaliero,73.83138805790135,1112
+1337,2023-06-12 00:00:00,Panini Corporation,Bassano,precipitazioni,giornaliero,33.46517691171577,1112
+1338,2023-06-12 00:00:00,Sonyc,Bassano,precipitazioni,giornaliero,60.16072813973655,1112
+1339,2023-06-13 00:00:00,Monsters & CO,Bassano,ventoso,giornaliero,16.387907156746213,1113
+1340,2023-06-13 00:00:00,Panini Corporation,Bassano,ventoso,giornaliero,89.2628913993751,1113
+1341,2023-06-13 00:00:00,Sonyc,Bassano,ventoso,giornaliero,55.4970444437555,1113
+1342,2023-06-14 00:00:00,Monsters & CO,Bassano,ventoso,giornaliero,55.52469572125961,1114
+1343,2023-06-14 00:00:00,Panini Corporation,Bassano,ventoso,giornaliero,54.35095026682985,1114
+1344,2023-06-14 00:00:00,Sonyc,Bassano,ventoso,giornaliero,46.19253763821302,1114
+1345,2023-06-15 00:00:00,Monsters & CO,Bassano,precipitazioni,giornaliero,48.707741103991154,1115
+1346,2023-06-15 00:00:00,Panini Corporation,Bassano,precipitazioni,giornaliero,19.353341135457427,1115
+1347,2023-06-15 00:00:00,Sonyc,Bassano,precipitazioni,giornaliero,98.10514266977754,1115
+1348,2023-06-16 00:00:00,Monsters & CO,Bassano,precipitazioni,giornaliero,64.20153314037859,1116
+1349,2023-06-16 00:00:00,Panini Corporation,Bassano,precipitazioni,giornaliero,22.384632270261967,1116
+1350,2023-06-16 00:00:00,Sonyc,Bassano,precipitazioni,giornaliero,51.029157637569334,1116
+1351,2023-06-17 00:00:00,Monsters & CO,Bassano,precipitazioni,giornaliero,45.58951114625778,1117
+1352,2023-06-17 00:00:00,Panini Corporation,Bassano,precipitazioni,giornaliero,56.67164789826001,1117
+1353,2023-06-17 00:00:00,Sonyc,Bassano,precipitazioni,giornaliero,41.74474729582296,1117
+1354,2023-06-18 00:00:00,Monsters & CO,Bassano,ventoso,giornaliero,41.03243291389403,1118
+498,2023-06-18 00:00:00,Monsters & CO,Bassano,precipitazioni,settimanale,41.03243291389403,null
+1355,2023-06-18 00:00:00,Panini Corporation,Bassano,ventoso,giornaliero,32.09489155371114,1118
+499,2023-06-18 00:00:00,Panini Corporation,Bassano,precipitazioni,settimanale,32.09489155371114,null
+1356,2023-06-18 00:00:00,Sonyc,Bassano,ventoso,giornaliero,52.14833049692769,1118
+500,2023-06-18 00:00:00,Sonyc,Bassano,precipitazioni,settimanale,52.14833049692769,null
+1357,2023-06-19 00:00:00,Monsters & CO,Bassano,ventoso,giornaliero,64.83902690004113,1119
+523,2023-06-19 00:00:00,Monsters & CO,Bassano,precipitazioni,mensile,64.83902690004113,null
+1358,2023-06-19 00:00:00,Panini Corporation,Bassano,ventoso,giornaliero,62.79813224724479,1119
+524,2023-06-19 00:00:00,Panini Corporation,Bassano,precipitazioni,mensile,62.79813224724479,null
+1359,2023-06-19 00:00:00,Sonyc,Bassano,ventoso,giornaliero,77.8174663582013,1119
+525,2023-06-19 00:00:00,Sonyc,Bassano,precipitazioni,mensile,77.8174663582013,null
+1360,2023-05-21 00:00:00,Monsters & CO,Novara,precipitazioni,giornaliero,82.72653203777031,1120
+1361,2023-05-21 00:00:00,Panini Corporation,Novara,precipitazioni,giornaliero,61.26075583828268,1120
+1362,2023-05-21 00:00:00,Sonyc,Novara,precipitazioni,giornaliero,11.884644996438707,1120
+1363,2023-05-22 00:00:00,Monsters & CO,Novara,soleggiato,giornaliero,92.214355684639,1121
+1364,2023-05-22 00:00:00,Panini Corporation,Novara,soleggiato,giornaliero,82.19059558883961,1121
+1365,2023-05-22 00:00:00,Sonyc,Novara,soleggiato,giornaliero,45.402311454657884,1121
+1366,2023-05-23 00:00:00,Monsters & CO,Novara,ventoso,giornaliero,76.72044648813376,1122
+1367,2023-05-23 00:00:00,Panini Corporation,Novara,ventoso,giornaliero,33.04750248185614,1122
+1368,2023-05-23 00:00:00,Sonyc,Novara,ventoso,giornaliero,86.90931108568515,1122
+1369,2023-05-24 00:00:00,Monsters & CO,Novara,ventoso,giornaliero,78.81882462169652,1123
+1370,2023-05-24 00:00:00,Panini Corporation,Novara,ventoso,giornaliero,94.43921930218406,1123
+1371,2023-05-24 00:00:00,Sonyc,Novara,ventoso,giornaliero,55.580269249580624,1123
+1372,2023-05-25 00:00:00,Monsters & CO,Novara,ventoso,giornaliero,47.20520063535723,1124
+1373,2023-05-25 00:00:00,Panini Corporation,Novara,ventoso,giornaliero,75.36107186395517,1124
+1374,2023-05-25 00:00:00,Sonyc,Novara,ventoso,giornaliero,26.78045464532376,1124
+1375,2023-05-26 00:00:00,Monsters & CO,Novara,ventoso,giornaliero,85.37432075314035,1125
+501,2023-05-26 00:00:00,Monsters & CO,Novara,temporale,settimanale,85.37432075314035,null
+1376,2023-05-26 00:00:00,Panini Corporation,Novara,ventoso,giornaliero,68.42850057245354,1125
+502,2023-05-26 00:00:00,Panini Corporation,Novara,temporale,settimanale,68.42850057245354,null
+1377,2023-05-26 00:00:00,Sonyc,Novara,ventoso,giornaliero,55.99418351987095,1125
+503,2023-05-26 00:00:00,Sonyc,Novara,temporale,settimanale,55.99418351987095,null
+1378,2023-05-27 00:00:00,Monsters & CO,Novara,soleggiato,giornaliero,17.910689182453286,1126
+1379,2023-05-27 00:00:00,Panini Corporation,Novara,soleggiato,giornaliero,54.30732544517133,1126
+1380,2023-05-27 00:00:00,Sonyc,Novara,soleggiato,giornaliero,67.81366423890582,1126
+1381,2023-05-28 00:00:00,Monsters & CO,Novara,ventoso,giornaliero,26.825568910413217,1127
+1382,2023-05-28 00:00:00,Panini Corporation,Novara,ventoso,giornaliero,49.600939543188154,1127
+1383,2023-05-28 00:00:00,Sonyc,Novara,ventoso,giornaliero,47.353136052887415,1127
+1384,2023-05-29 00:00:00,Monsters & CO,Novara,soleggiato,giornaliero,93.84821244570583,1128
+1385,2023-05-29 00:00:00,Panini Corporation,Novara,soleggiato,giornaliero,95.76168937496591,1128
+1386,2023-05-29 00:00:00,Sonyc,Novara,soleggiato,giornaliero,84.20635859589655,1128
+1387,2023-05-30 00:00:00,Monsters & CO,Novara,soleggiato,giornaliero,87.23674804124,1129
+1388,2023-05-30 00:00:00,Panini Corporation,Novara,soleggiato,giornaliero,72.89192291038246,1129
+1389,2023-05-30 00:00:00,Sonyc,Novara,soleggiato,giornaliero,92.65036150394572,1129
+1390,2023-05-31 00:00:00,Monsters & CO,Novara,ventoso,giornaliero,50.769073719188285,1130
+1391,2023-05-31 00:00:00,Panini Corporation,Novara,ventoso,giornaliero,10.889717722228179,1130
+1392,2023-05-31 00:00:00,Sonyc,Novara,ventoso,giornaliero,42.01183053110313,1130
+1393,2023-06-01 00:00:00,Monsters & CO,Novara,precipitazioni,giornaliero,73.63276537473486,1131
+1394,2023-06-01 00:00:00,Panini Corporation,Novara,precipitazioni,giornaliero,96.89090774956108,1131
+1395,2023-06-01 00:00:00,Sonyc,Novara,precipitazioni,giornaliero,14.409614472449338,1131
+1396,2023-06-02 00:00:00,Monsters & CO,Novara,soleggiato,giornaliero,11.525286872611211,1132
+504,2023-06-02 00:00:00,Monsters & CO,Novara,precipitazioni,settimanale,11.525286872611211,null
+1397,2023-06-02 00:00:00,Panini Corporation,Novara,soleggiato,giornaliero,86.31344440904522,1132
+505,2023-06-02 00:00:00,Panini Corporation,Novara,precipitazioni,settimanale,86.31344440904522,null
+1398,2023-06-02 00:00:00,Sonyc,Novara,soleggiato,giornaliero,45.81037811470025,1132
+506,2023-06-02 00:00:00,Sonyc,Novara,precipitazioni,settimanale,45.81037811470025,null
+1399,2023-06-03 00:00:00,Monsters & CO,Novara,ventoso,giornaliero,11.140150418778196,1133
+1400,2023-06-03 00:00:00,Panini Corporation,Novara,ventoso,giornaliero,53.35075427728624,1133
+1401,2023-06-03 00:00:00,Sonyc,Novara,ventoso,giornaliero,89.78884536175435,1133
+1402,2023-06-04 00:00:00,Monsters & CO,Novara,precipitazioni,giornaliero,51.17104652958807,1134
+1403,2023-06-04 00:00:00,Panini Corporation,Novara,precipitazioni,giornaliero,71.48627442019529,1134
+1404,2023-06-04 00:00:00,Sonyc,Novara,precipitazioni,giornaliero,37.47167967042688,1134
+1405,2023-06-05 00:00:00,Monsters & CO,Novara,ventoso,giornaliero,25.711944490261914,1135
+1406,2023-06-05 00:00:00,Panini Corporation,Novara,ventoso,giornaliero,70.39070866562156,1135
+1407,2023-06-05 00:00:00,Sonyc,Novara,ventoso,giornaliero,11.302987508552516,1135
+1408,2023-06-06 00:00:00,Monsters & CO,Novara,precipitazioni,giornaliero,79.26235715841055,1136
+1409,2023-06-06 00:00:00,Panini Corporation,Novara,precipitazioni,giornaliero,30.765077098834123,1136
+1410,2023-06-06 00:00:00,Sonyc,Novara,precipitazioni,giornaliero,15.959788285422592,1136
+1411,2023-06-07 00:00:00,Monsters & CO,Novara,ventoso,giornaliero,58.40289228727335,1137
+1412,2023-06-07 00:00:00,Panini Corporation,Novara,ventoso,giornaliero,12.307169321353872,1137
+1413,2023-06-07 00:00:00,Sonyc,Novara,ventoso,giornaliero,84.16353462490467,1137
+1414,2023-06-08 00:00:00,Monsters & CO,Novara,ventoso,giornaliero,81.14787676306251,1138
+1415,2023-06-08 00:00:00,Panini Corporation,Novara,ventoso,giornaliero,49.1620727170255,1138
+1416,2023-06-08 00:00:00,Sonyc,Novara,ventoso,giornaliero,61.28485154169852,1138
+1417,2023-06-09 00:00:00,Monsters & CO,Novara,precipitazioni,giornaliero,43.10132688430548,1139
+507,2023-06-09 00:00:00,Monsters & CO,Novara,temporale,settimanale,43.10132688430548,null
+1418,2023-06-09 00:00:00,Panini Corporation,Novara,precipitazioni,giornaliero,97.27012321308149,1139
+508,2023-06-09 00:00:00,Panini Corporation,Novara,temporale,settimanale,97.27012321308149,null
+1419,2023-06-09 00:00:00,Sonyc,Novara,precipitazioni,giornaliero,77.88355313273306,1139
+509,2023-06-09 00:00:00,Sonyc,Novara,temporale,settimanale,77.88355313273306,null
+1420,2023-06-10 00:00:00,Monsters & CO,Novara,precipitazioni,giornaliero,43.060713857029725,1140
+1421,2023-06-10 00:00:00,Panini Corporation,Novara,precipitazioni,giornaliero,11.047234232099608,1140
+1422,2023-06-10 00:00:00,Sonyc,Novara,precipitazioni,giornaliero,76.33820627821687,1140
+1423,2023-06-11 00:00:00,Monsters & CO,Novara,soleggiato,giornaliero,84.0018158080832,1141
+1424,2023-06-11 00:00:00,Panini Corporation,Novara,soleggiato,giornaliero,57.3041510578039,1141
+1425,2023-06-11 00:00:00,Sonyc,Novara,soleggiato,giornaliero,54.5967898679766,1141
+1426,2023-06-12 00:00:00,Monsters & CO,Novara,precipitazioni,giornaliero,99.82487066158015,1142
+1427,2023-06-12 00:00:00,Panini Corporation,Novara,precipitazioni,giornaliero,16.687760208807358,1142
+1428,2023-06-12 00:00:00,Sonyc,Novara,precipitazioni,giornaliero,83.69415900749004,1142
+1429,2023-06-13 00:00:00,Monsters & CO,Novara,precipitazioni,giornaliero,29.155193979703608,1143
+1430,2023-06-13 00:00:00,Panini Corporation,Novara,precipitazioni,giornaliero,19.91929041324456,1143
+1431,2023-06-13 00:00:00,Sonyc,Novara,precipitazioni,giornaliero,13.701184020307847,1143
+1432,2023-06-14 00:00:00,Monsters & CO,Novara,ventoso,giornaliero,41.42984435061163,1144
+1433,2023-06-14 00:00:00,Panini Corporation,Novara,ventoso,giornaliero,13.981362976891177,1144
+1434,2023-06-14 00:00:00,Sonyc,Novara,ventoso,giornaliero,81.68899232127349,1144
+1435,2023-06-15 00:00:00,Monsters & CO,Novara,precipitazioni,giornaliero,38.95092724052541,1145
+1436,2023-06-15 00:00:00,Panini Corporation,Novara,precipitazioni,giornaliero,37.69204292820855,1145
+1437,2023-06-15 00:00:00,Sonyc,Novara,precipitazioni,giornaliero,23.902663319866363,1145
+1438,2023-06-16 00:00:00,Monsters & CO,Novara,soleggiato,giornaliero,11.415849617836793,1146
+510,2023-06-16 00:00:00,Monsters & CO,Novara,precipitazioni,settimanale,11.415849617836793,null
+1439,2023-06-16 00:00:00,Panini Corporation,Novara,soleggiato,giornaliero,80.2060505390928,1146
+511,2023-06-16 00:00:00,Panini Corporation,Novara,precipitazioni,settimanale,80.2060505390928,null
+1440,2023-06-16 00:00:00,Sonyc,Novara,soleggiato,giornaliero,26.868220783972877,1146
+512,2023-06-16 00:00:00,Sonyc,Novara,precipitazioni,settimanale,26.868220783972877,null
+1441,2023-06-17 00:00:00,Monsters & CO,Novara,ventoso,giornaliero,49.770954664502774,1147
+1442,2023-06-17 00:00:00,Panini Corporation,Novara,ventoso,giornaliero,63.43414168120297,1147
+1443,2023-06-17 00:00:00,Sonyc,Novara,ventoso,giornaliero,58.93577215447471,1147
+1444,2023-06-18 00:00:00,Monsters & CO,Novara,precipitazioni,giornaliero,85.51831396990212,1148
+1445,2023-06-18 00:00:00,Panini Corporation,Novara,precipitazioni,giornaliero,40.99974111598082,1148
+1446,2023-06-18 00:00:00,Sonyc,Novara,precipitazioni,giornaliero,72.80927214684095,1148
+1447,2023-06-19 00:00:00,Monsters & CO,Novara,ventoso,giornaliero,82.1987893061133,1149
+526,2023-06-19 00:00:00,Monsters & CO,Novara,precipitazioni,mensile,82.1987893061133,null
+1448,2023-06-19 00:00:00,Panini Corporation,Novara,ventoso,giornaliero,87.58818419435107,1149
+527,2023-06-19 00:00:00,Panini Corporation,Novara,precipitazioni,mensile,87.58818419435107,null
+1449,2023-06-19 00:00:00,Sonyc,Novara,ventoso,giornaliero,34.24387392118608,1149
+528,2023-06-19 00:00:00,Sonyc,Novara,precipitazioni,mensile,34.24387392118608,null
